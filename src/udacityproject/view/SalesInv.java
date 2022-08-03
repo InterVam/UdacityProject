@@ -145,7 +145,7 @@ public class SalesInv extends javax.swing.JFrame {
         });
         jMenu1.add(loadfile);
 
-        Savefile.setText("SaveFile");
+        Savefile.setText("Save File");
         jMenu1.add(Savefile);
 
         jMenuBar1.add(jMenu1);
